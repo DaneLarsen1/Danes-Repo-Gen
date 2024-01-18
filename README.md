@@ -44,5 +44,9 @@ This project is licensed under the None license. For more information, see [here
   For any questions, please contact me at [danelarsen12@gmail.com](mailto:danelarsen12@gmail.com).
   
   GitHub: [DaneLarsen1](https://github.com/DaneLarsen1)
+
+  ## Video of Application in action 
+
+ file:///Users/danelarsen/Downloads/READ.webm
   
   
